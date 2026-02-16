@@ -31,9 +31,10 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
-
 body {
-    background: #FDFDFD;
+    background: #FDFDFD !important;
+    -webkit-filter: none !important; /* отключаем принудительное затемнение */    
+    filter: none !important; /* отключаем принудительное затемнение */ 
 }
 
 
