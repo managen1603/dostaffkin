@@ -56,7 +56,7 @@ npm install
 npm start
 
 # Сборка для production
-npm build
+npm run build
 
 # Watch режим (автоматическая пересборка)
 npm run watch
